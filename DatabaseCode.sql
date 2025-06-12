@@ -1,12 +1,12 @@
 CREATE DATABASE SistemaCarnet;
-GO
+--GO
 
 USE SistemaCarnet;
 GO
 
 -- Tabla: tipos_identificacion
 CREATE TABLE tipos_identificacion (
-    id INT PRIMARY KEY,
+    id INT IDENTITY(1,1) PRIMARY KEY,
     nombre VARCHAR(20) NOT NULL
 );
 
@@ -108,10 +108,10 @@ CREATE TABLE usuario_qr (
 
 select * from tipos_identificacion
 
-insert into tipos_identificacion (id, nombre) values
-(1, 'Cedula'),
-(2, 'Correo'),
-(3, 'Pasaporte');
+insert into tipos_identificacion (nombre) values
+('Cedula'),
+('Correo'),
+('Pasaporte');
 
 
 insert into estado (id, nombre) values
