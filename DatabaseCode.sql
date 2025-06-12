@@ -29,7 +29,7 @@ CREATE TABLE usuarios (
     identificacion VARCHAR(20) NOT NULL,
     nombre_completo VARCHAR(100) NOT NULL,
     apellidos VARCHAR(100) NOT NULL,
-    contrasena VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
     tipo_usuario_id INT NOT NULL,
 	estado int Not Null,
     FOREIGN KEY (tipo_identificacion_id) REFERENCES tipos_identificacion(id),
@@ -55,7 +55,7 @@ CREATE TABLE usuario_foto (
 CREATE TABLE tokens (
     id INT IDENTITY(1,1) PRIMARY KEY,
     usuario_email VARCHAR(70) NOT NULL,
-    token VARCHAR(255) NOT NULL,
+    token VARCHAR(1000) NOT NULL,
     tipo VARCHAR(50) NOT NULL,
     creado_en DATETIME NOT NULL,
     expiracion DATETIME,
