@@ -1,0 +1,34 @@
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Business.deps.json
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Business.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Business.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.DataAcces.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.DataAcces.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Models.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.csproj.AssemblyReference.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.AssemblyInfoInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.AssemblyInfo.cs
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioA.BA9D94FB.Up2Date
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\refint\UsuarioApi.Business.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\ref\UsuarioApi.Business.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Business.deps.json
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Business.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Business.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.DataAcces.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.DataAcces.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\bin\Debug\net8.0\UsuarioApi.Models.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.csproj.AssemblyReference.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.AssemblyInfoInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.AssemblyInfo.cs
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioA.BA9D94FB.Up2Date
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\refint\UsuarioApi.Business.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\UsuarioApi.Business.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Business\obj\Debug\net8.0\ref\UsuarioApi.Business.dll

@@ -1,0 +1,22 @@
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\bin\Debug\net8.0\UsuarioApi.Models.deps.json
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\bin\Debug\net8.0\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\bin\Debug\net8.0\UsuarioApi.Models.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.AssemblyInfoInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.AssemblyInfo.cs
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\refint\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\New folder\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\ref\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\bin\Debug\net8.0\UsuarioApi.Models.deps.json
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\bin\Debug\net8.0\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\bin\Debug\net8.0\UsuarioApi.Models.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.AssemblyInfoInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.AssemblyInfo.cs
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\refint\UsuarioApi.Models.dll
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\UsuarioApi.Models.pdb
+C:\Users\fabia\Documents\MyFiles\6.ProgramacionV(MicroServicios)RESTful\proyectos\UsuarioApi\UsuarioApi.Models\obj\Debug\net8.0\ref\UsuarioApi.Models.dll
