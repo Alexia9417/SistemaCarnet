@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\filter\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\filter\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\configuration\\tokenvalidationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\configuration\\tokenvalidationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenValidationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Configuration\\TokenValidationOptions.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Configuration\\TokenValidationOptions.cs",
+              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Configuration\\TokenValidationOptions.cs",
+              "RelativeToolTip": "UsuarioApi\\Configuration\\TokenValidationOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:15:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Program.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Program.cs",
+              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Program.cs",
+              "RelativeToolTip": "UsuarioApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:10:59.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "UsuarioApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:10:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Filter\\Validate.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Filter\\Validate.cs",
+              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Filter\\Validate.cs",
+              "RelativeToolTip": "UsuarioApi\\Filter\\Validate.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:09:25.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
