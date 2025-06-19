@@ -2819,11 +2819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj",
+      "projectUniqueName": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj",
       "projectName": "UsuarioApi.DataAcces",
-      "projectPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj",
+      "projectPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj",
       "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.DataAcces\\obj\\",
+      "outputPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.DataAcces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2844,8 +2844,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj": {
-              "projectPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj"
+            "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj": {
+              "projectPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj"
             }
           }
         }

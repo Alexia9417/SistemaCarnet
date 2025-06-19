@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lqlhJR1838=",
+  "dgSpecHash": "uvEwS80LYXA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Business\\UsuarioApi.Business.csproj",
+  "projectFilePath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.Business\\UsuarioApi.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

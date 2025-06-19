@@ -24,25 +24,14 @@ namespace UsuarioApi.Controllers
         {
             try
             {
-                var creado = await _service.CrearUsuarioAsync(usuario);
+                var (creado, error) = await _service.CrearUsuarioAsync(usuario);
 
                 if (creado == null)
                 {
-                    var yaExiste = await _service.ObtenerPorEmailAsync(usuario.Email);
-                    if (yaExiste != null)
-                    {
-                        return Conflict(new
-                        {
-                            status = 409,
-                            mensaje = "Ya existe un usuario con este correo electrónico."
-                        });
-                    }
+                    if (error?.Contains("409") == true)
+                        return Conflict(new { status = 409, mensaje = error });
 
-                    return BadRequest(new
-                    {
-                        status = 400,
-                        mensaje = "Error al crear el usuario. Verifique los datos."
-                    });
+                    return BadRequest(new { status = 400, mensaje = error ?? "Error al crear el usuario." });
                 }
 
                 return CreatedAtAction(nameof(ObtenerPorEmail), new { email = creado.Email }, new
@@ -58,7 +47,6 @@ namespace UsuarioApi.Controllers
                         creado.PrimerApellido,
                         creado.SegundoApellido,
                         creado.TipoUsuario,
-                        creado.Estado,
                         Telefonos = creado.Telefonos?.Select(t => t.Numero).ToList(),
                         Carreras = creado.Carreras?.Select(c => c.CarreraId).ToList(),
                         Areas = creado.Areas?.Select(a => a.AreaId).ToList()
@@ -67,22 +55,14 @@ namespace UsuarioApi.Controllers
             }
             catch (UnauthorizedAccessException)
             {
-                return Unauthorized(new
-                {
-                    status = 401,
-                    mensaje = "No autorizado."
-                });
+                return Unauthorized(new { status = 401, mensaje = "No autorizado." });
             }
             catch (Exception ex)
             {
-                return StatusCode(500, new
-                {
-                    status = 500,
-                    mensaje = "Error interno del servidor.",
-                    error = ex.Message
-                });
+                return StatusCode(500, new { status = 500, mensaje = "Error interno del servidor.", error = ex.Message });
             }
         }
+
 
         //Modificar usuario
         [HttpPut("{email}")]
@@ -90,43 +70,45 @@ namespace UsuarioApi.Controllers
         {
             try
             {
-                var actualizado = await _service.ModificarUsuarioAsync(email, usuario);
+                var (actualizado, error) = await _service.ModificarUsuarioAsync(email, usuario);
 
                 if (actualizado == null)
+                {
+                    if (error?.Contains("409") == true)
+                        return Conflict(new { status = 409, mensaje = error });
 
-                    {
-                        return BadRequest(new
-                    {
-                        status = 400,
-                        mensaje = "Error al modificar el usuario. Verifique que los datos sean correctos."
-                    });
+                    return BadRequest(new { status = 400, mensaje = error ?? "Error al modificar el usuario." });
                 }
 
                 return Ok(new
                 {
                     status = 200,
-                    mensaje = "Ok",
-                    data = usuario
+                    mensaje = "OK",
+                    data = new
+                    {
+                        actualizado.Email,
+                        actualizado.TipoIdentificacion,
+                        actualizado.Identificacion,
+                        actualizado.Nombre,
+                        actualizado.PrimerApellido,
+                        actualizado.SegundoApellido,
+                        actualizado.TipoUsuario,
+                        Telefonos = actualizado.Telefonos?.Select(t => t.Numero).ToList(),
+                        Carreras = actualizado.Carreras?.Select(c => c.CarreraId).ToList(),
+                        Areas = actualizado.Areas?.Select(a => a.AreaId).ToList()
+                    }
                 });
             }
             catch (UnauthorizedAccessException)
             {
-                return Unauthorized(new
-                {
-                    status = 401,
-                    mensaje = "No autorizado."
-                });
+                return Unauthorized(new { status = 401, mensaje = "No autorizado." });
             }
             catch (Exception ex)
             {
-                return StatusCode(500, new
-                {
-                    status = 500,
-                    mensaje = "Error interno del servidor.",
-                    error = ex.Message
-                });
+                return StatusCode(500, new { status = 500, mensaje = "Error interno del servidor.", error = ex.Message });
             }
         }
+
 
 
         //Eliminar usuario

@@ -22,7 +22,7 @@ namespace loginapi.Services
         public async Task<(bool Success, string Message, object TokenData)> LoginAsync(string email, string password, int tipoUsuarioId)
         {
             var usuario = await _context.Usuarios
-                .FirstOrDefaultAsync(u => u.Email == email && u.tipo_usuario == tipoUsuarioId && u.estado == 1);
+                .FirstOrDefaultAsync(u => u.Email == email && u.tipo_usuario == tipoUsuarioId);
 
             if (usuario == null)
                 return (false, "Usuario y/o contraseña incorrectos", null);

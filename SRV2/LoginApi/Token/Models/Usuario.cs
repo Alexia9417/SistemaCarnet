@@ -10,8 +10,6 @@ namespace loginapi.Models
 
         public int tipo_usuario { get; set; }
 
-        public int estado { get; set; }
-
         public ICollection<Token> Tokens { get; set; }
     }
 }
