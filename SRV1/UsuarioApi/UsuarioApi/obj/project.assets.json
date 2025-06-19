@@ -3210,11 +3210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\UsuarioApi.csproj",
+      "projectUniqueName": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi\\UsuarioApi.csproj",
       "projectName": "UsuarioApi",
-      "projectPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\UsuarioApi.csproj",
+      "projectPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi\\UsuarioApi.csproj",
       "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\obj\\",
+      "outputPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3235,14 +3235,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.Business\\UsuarioApi.Business.csproj": {
-              "projectPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.Business\\UsuarioApi.Business.csproj"
+            "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Business\\UsuarioApi.Business.csproj": {
+              "projectPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Business\\UsuarioApi.Business.csproj"
             },
-            "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj": {
-              "projectPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj"
+            "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj": {
+              "projectPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.DataAcces\\UsuarioApi.DataAcces.csproj"
             },
-            "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj": {
-              "projectPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj"
+            "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj": {
+              "projectPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioApi.Models.csproj"
             }
           }
         }

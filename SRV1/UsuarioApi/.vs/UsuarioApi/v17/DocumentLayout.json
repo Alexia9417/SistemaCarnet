@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuariotelefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuariotelefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuariocarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuariocarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167E327-7CB1-4E9A-8072-BD98F552AFEC}|UsuarioApi.Business\\UsuarioApi.Business.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.business\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167E327-7CB1-4E9A-8072-BD98F552AFEC}|UsuarioApi.Business\\UsuarioApi.Business.csproj|solutionrelative:usuarioapi.business\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +51,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\Usuario.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:10:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioDto.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\UsuarioDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:10:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioTelefono.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioTelefono.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\UsuarioTelefono.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioTelefono.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\UsuarioTelefono.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:10:37.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioCarrera.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\UsuarioCarrera.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioCarrera.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\UsuarioCarrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:10:36.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Business\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Business\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Business\\UsuarioServices.cs",
+              "RelativeToolTip": "UsuarioApi.Business\\UsuarioServices.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAADwv5gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:06:59.463Z",
+              "EditorCaption": ""
             }
           ]
         },

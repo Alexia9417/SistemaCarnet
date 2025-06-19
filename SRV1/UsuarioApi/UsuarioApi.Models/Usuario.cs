@@ -1,12 +1,21 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace UsuarioApi.Models
 {
     [Table("usuario")]
     public class Usuario
     {
+
+        public Usuario()
+        {
+            Telefonos = new List<UsuarioTelefono>();
+            Carreras = new List<UsuarioCarrera>();
+            Areas = new List<UsuarioArea>();
+        }
+
         [Key]
         [Column("email")]
         [Required]
@@ -52,8 +61,11 @@ namespace UsuarioApi.Models
         public int Estado { get; set; }
 
         // Relaciones
-        public ICollection<UsuarioTelefono>? Telefonos { get; set; }
-        public ICollection<UsuarioCarrera>? Carreras { get; set; }
-        public ICollection<UsuarioArea>? Areas { get; set; }
+        
+        public ICollection<UsuarioTelefono> Telefonos { get; set; }
+     
+        public ICollection<UsuarioCarrera> Carreras { get; set; }
+     
+        public ICollection<UsuarioArea>Areas { get; set; }
     }
 }

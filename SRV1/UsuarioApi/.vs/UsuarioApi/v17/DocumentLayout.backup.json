@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\",
+  "WorkspaceRootPath": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\filter\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\filter\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuariotelefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuariotelefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\configuration\\tokenvalidationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\configuration\\tokenvalidationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\fabia\\documents\\myfiles\\6.programacionv(microservicios)restful\\proyectos\\usuarioapi\\usuarioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88772B91-AEE1-4E2B-B4D0-33C1141A9614}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.models\\usuariocarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4471439F-CDF6-4635-B1DE-474ABCD9775E}|UsuarioApi.Models\\UsuarioApi.Models.csproj|solutionrelative:usuarioapi.models\\usuariocarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167E327-7CB1-4E9A-8072-BD98F552AFEC}|UsuarioApi.Business\\UsuarioApi.Business.csproj|c:\\users\\fabia\\escritorio\\sistemacarnet\\srv1\\usuarioapi\\usuarioapi.business\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167E327-7CB1-4E9A-8072-BD98F552AFEC}|UsuarioApi.Business\\UsuarioApi.Business.csproj|solutionrelative:usuarioapi.business\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,54 +54,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenValidationOptions.cs",
-              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Configuration\\TokenValidationOptions.cs",
-              "RelativeDocumentMoniker": "UsuarioApi\\Configuration\\TokenValidationOptions.cs",
-              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Configuration\\TokenValidationOptions.cs",
-              "RelativeToolTip": "UsuarioApi\\Configuration\\TokenValidationOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\Usuario.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\Usuario.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T04:15:48.891Z",
+              "WhenOpened": "2025-06-19T06:10:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioDto.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\UsuarioDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:10:38.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Program.cs",
-              "RelativeDocumentMoniker": "UsuarioApi\\Program.cs",
-              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Program.cs",
-              "RelativeToolTip": "UsuarioApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "UsuarioTelefono.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioTelefono.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\UsuarioTelefono.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioTelefono.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\UsuarioTelefono.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T03:10:59.943Z",
+              "WhenOpened": "2025-06-19T06:10:37.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "UsuarioApi\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "UsuarioApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Title": "UsuarioCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioCarrera.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Models\\UsuarioCarrera.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Models\\UsuarioCarrera.cs",
+              "RelativeToolTip": "UsuarioApi.Models\\UsuarioCarrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T03:10:16.337Z",
+              "WhenOpened": "2025-06-19T06:10:36.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Validate.cs",
-              "DocumentMoniker": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Filter\\Validate.cs",
-              "RelativeDocumentMoniker": "UsuarioApi\\Filter\\Validate.cs",
-              "ToolTip": "C:\\Users\\fabia\\Documents\\MyFiles\\6.ProgramacionV(MicroServicios)RESTful\\proyectos\\UsuarioApi\\UsuarioApi\\Filter\\Validate.cs",
-              "RelativeToolTip": "UsuarioApi\\Filter\\Validate.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAUAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Business\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "UsuarioApi.Business\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\fabia\\Escritorio\\SistemaCarnet\\SRV1\\UsuarioApi\\UsuarioApi.Business\\UsuarioServices.cs",
+              "RelativeToolTip": "UsuarioApi.Business\\UsuarioServices.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAADwv5gAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T03:09:25.73Z",
+              "WhenOpened": "2025-06-19T06:06:59.463Z",
               "EditorCaption": ""
             }
           ]

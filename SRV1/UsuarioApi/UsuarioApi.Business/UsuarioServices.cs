@@ -23,8 +23,6 @@ namespace UsuarioApi.Business
                 .ToListAsync();
         }
 
-
-
         public async Task<Usuario?> ObtenerPorEmailAsync(string email)
         {
             return await _context.Usuarios
@@ -33,7 +31,6 @@ namespace UsuarioApi.Business
                 .Include(u => u.Areas)
                 .FirstOrDefaultAsync(u => u.Email == email);
         }
-
 
         public async Task<IEnumerable<Usuario>> FiltrarAsync(string? identificacion, string? nombre, int? tipo)
         {
@@ -55,9 +52,7 @@ namespace UsuarioApi.Business
             return await query.ToListAsync();
         }
 
-
         public async Task<Usuario?> CrearUsuarioAsync(UsuarioDto dto)
-
         {
             if (!ValidarDto(dto)) return null;
 
@@ -88,7 +83,6 @@ namespace UsuarioApi.Business
                     {
                         UsuarioEmail = dto.Email,
                         Numero = numero
-
                     });
                 }
             }
@@ -105,7 +99,7 @@ namespace UsuarioApi.Business
                 }
             }
 
-            if (dto.TipoUsuario == 1 && dto.Areas != null)
+            if ((dto.TipoUsuario == 1 || dto.TipoUsuario == 3) && dto.Areas != null)
             {
                 foreach (var areaId in dto.Areas)
                 {
@@ -120,7 +114,6 @@ namespace UsuarioApi.Business
             await _context.SaveChangesAsync();
             return usuario;
         }
-
 
         public async Task<Usuario?> ModificarUsuarioAsync(string email, UsuarioDto dto)
         {
@@ -155,7 +148,6 @@ namespace UsuarioApi.Business
                     {
                         UsuarioEmail = email,
                         Numero = numero
-
                     });
                 }
             }
@@ -172,7 +164,7 @@ namespace UsuarioApi.Business
                 }
             }
 
-            if (dto.TipoUsuario == 1 && dto.Areas != null)
+            if ((dto.TipoUsuario == 1 || dto.TipoUsuario == 3) && dto.Areas != null)
             {
                 foreach (var areaId in dto.Areas)
                 {
@@ -188,7 +180,6 @@ namespace UsuarioApi.Business
             await _context.SaveChangesAsync();
             return usuario;
         }
-
 
         public async Task<bool> EliminarUsuarioAsync(string email)
         {
@@ -217,7 +208,7 @@ namespace UsuarioApi.Business
                 string.IsNullOrWhiteSpace(dto.SegundoApellido)) return false;
 
             if (dto.TipoUsuario == 2 && (dto.Carreras == null || !dto.Carreras.Any())) return false;
-            if (dto.TipoUsuario == 1 && (dto.Areas == null || !dto.Areas.Any())) return false;
+            if ((dto.TipoUsuario == 1 || dto.TipoUsuario == 3) && (dto.Areas == null || !dto.Areas.Any())) return false;
 
             return true;
         }
